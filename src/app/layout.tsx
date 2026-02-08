@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Abhinand SD | Portfolio",
   description: "Full Stack Developer Portfolio",
+  icons: {
+    icon: "/profile.jpeg",
+  },
 };
 
 export default function RootLayout({
