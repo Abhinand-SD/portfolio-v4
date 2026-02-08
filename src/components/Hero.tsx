@@ -64,7 +64,7 @@ const Hero = () => {
                             {/* Image Container */}
                             <div className="relative w-full h-full rounded-full border-4 border-slate-800 overflow-hidden shadow-2xl">
                                 <Image
-                                    src="/profile.jpg"
+                                    src="/profile.jpeg"
                                     alt="Abhinand SD"
                                     fill
                                     className="object-cover"
