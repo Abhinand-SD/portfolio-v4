@@ -3,8 +3,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Github, ExternalLink } from 'lucide-react';
-
-import Link from 'next/link';
 import Image from 'next/image';
 
 const Projects = () => {
