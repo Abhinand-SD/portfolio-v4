@@ -12,7 +12,7 @@ const Projects = () => {
             desc: "Full-featured fashion e-commerce app with auth, cart, order management, and payment integration.",
             tags: ["React", "Node.js", "MongoDB", "Express"],
             github: "https://github.com/Abhinand-SD/laksyah-trends-ecommerce",
-            live: "#",
+            live: "https://laksyah-trends-ecommerce.vercel.app/",
             image: "/images/projects/laksyah-trends.png"
         },
         {
@@ -20,7 +20,7 @@ const Projects = () => {
             desc: "Modern expense tracker with an AI-powered budget advisor for personalized savings recommendations.",
             tags: ["Next.js", "React", "Tailwind CSS", "AI"],
             github: "https://github.com/Abhinand-SD/AI-Finance-Dashboard",
-            live: "#",
+            live: "https://ai-finance-dashboard-delta.vercel.app/",
             image: "/images/projects/ai-finance-dashboard.png"
         },
         {
@@ -28,7 +28,7 @@ const Projects = () => {
             desc: "Full-stack feedback system with OTP-based auth, secure APIs, and scalable architecture.",
             tags: ["Next.js", "Typescript", "Auth", "Prisma"],
             github: "https://github.com/Abhinand-SD/feedback-system-nextjs",
-            live: "#",
+            live: "https://feedback-system-beryl.vercel.app/",
             image: "/images/projects/feedback-system.png"
         },
         {
@@ -36,7 +36,7 @@ const Projects = () => {
             desc: "RESTful API and real-time server for bus tracking using Socket.IO for live updates.",
             tags: ["Node.js", "Express", "MongoDB", "Socket.IO"],
             github: "https://github.com/Abhinand-SD/kerala-bus-tracker-api",
-            live: "#",
+            live: "https://nammabus.vercel.app/",
             image: "/images/projects/kerala-bus-tracker.png"
         },
         {
@@ -44,7 +44,7 @@ const Projects = () => {
             desc: "Analyze Instagram data from ZIP exports to visualize follower insights and interactions.",
             tags: ["Python", "React", "Data Viz"],
             github: "https://github.com/Abhinand-SD/instagram-insights-local-2.0",
-            live: "#",
+            live: "https://instagram-insights-local-20.vercel.app/",
             image: "/images/projects/instagram-insights.png"
         },
         {
@@ -52,7 +52,7 @@ const Projects = () => {
             desc: "Client-side app generating personalized weekly diet plans with Kerala-style meals.",
             tags: ["React", "Vite", "Tailwind CSS"],
             github: "https://github.com/Abhinand-SD/fat-loss-diet-plan-creator",
-            live: "#",
+            live: "https://fat-loss-diet-plan-creator-rho.vercel.app/",
             image: "/images/projects/fat-loss-diet.png"
         }
     ];
