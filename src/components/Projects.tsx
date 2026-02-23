@@ -20,7 +20,7 @@ const Projects = () => {
             desc: "Modern expense tracker with an AI-powered budget advisor for personalized savings recommendations.",
             tags: ["Next.js", "React", "Tailwind CSS", "AI"],
             github: "https://github.com/Abhinand-SD/AI-Finance-Dashboard",
-            live: "https://ai-finance-dashboard-delta.vercel.app/",
+            live: "https://studio.firebase.google.com/studio-8090705465",
             image: "/images/projects/ai-finance-dashboard.png"
         },
         {
